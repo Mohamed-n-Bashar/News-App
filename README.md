@@ -8,13 +8,12 @@ Designed for a smooth user experience with a clean and structured UI.
 
 ## 🚀 Features  
 ✅ **Real-time news fetching** using APIs  
-✅ **State management with Cubit** for smooth performance  
 ✅ **Modern and intuitive UI** built with Flutter  
 ✅ **Supports multiple news categories**  
 ✅ **Optimized for readability and easy navigation**  
+✅ In-app WebView support for reading full news articles without leaving the app.
 
 ## 🛠️ Tech Stack  
 - **Flutter** for UI development  
 - **Dart** for logic and app structure  
 - **REST API** for fetching news data  
-- **Cubit** for efficient state management  
