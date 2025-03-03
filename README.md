@@ -4,7 +4,8 @@ A modern **news application** built with **Flutter**, using **APIs** for real-ti
 Designed for a smooth user experience with a clean and structured UI.  
 
 ## 🌟 Screenshots  
-![صفحات تطبيق الأخبار](https://github.com/user-attachments/assets/339fc18a-d908-4551-8701-bf633864798c)
+
+<img src="https://github.com/user-attachments/assets/339fc18a-d908-4551-8701-bf633864798c" width="500">
 
 ## 🚀 Features  
 ✅ **Real-time news fetching** using APIs  
