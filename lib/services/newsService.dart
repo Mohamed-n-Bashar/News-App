@@ -6,7 +6,6 @@ import 'package:news_app/services/constants.dart';
 
 class Newsservice {
   final Dio dio = Dio();
-  // Newsservice(this.dio);                                           // كان ممكن اديله القيمة مره واحده ولكن ثروت سامي بيحب انه يباصي القيم دي
 
   Future<List<ArticleModel>> getNews({required String category}) async {
     try {
